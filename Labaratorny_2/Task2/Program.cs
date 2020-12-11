@@ -36,9 +36,9 @@ namespace Task2
 
             //Ввывод результата 
             Console.WriteLine("\t" + "     РЕЗУЛЬТАТ");
-            Console.WriteLine("\n Точка М (" + x + " ; " + y + ") лежит в области N =" + N);
+            Console.WriteLine("\n" + "Точка М (" + x + " ; " + y + ") лежит в области N =" + N);
             //Ввывод в консоль
-            Console.WriteLine("\n\n Для продолжения программы нажмите любую клавишу!!!");
+            Console.WriteLine("\n" + "Для продолжения программы нажмите любую клавишу!!!");
             Console.WriteLine("Для завершения программы нажмите Enter.");
              // Создаем переменную для пользовательского ввода
             string p = Console.ReadLine();
