@@ -1,0 +1,16 @@
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/bin/Debug/net5.0/Task1
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/bin/Debug/net5.0/Task1.deps.json
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/bin/Debug/net5.0/Task1.runtimeconfig.json
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/bin/Debug/net5.0/Task1.runtimeconfig.dev.json
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/bin/Debug/net5.0/Task1.dll
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/bin/Debug/net5.0/ref/Task1.dll
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/bin/Debug/net5.0/Task1.pdb
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/obj/Debug/net5.0/Task1.csprojAssemblyReference.cache
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/obj/Debug/net5.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/obj/Debug/net5.0/Task1.AssemblyInfoInputs.cache
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/obj/Debug/net5.0/Task1.AssemblyInfo.cs
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/obj/Debug/net5.0/Task1.csproj.CoreCompileInputs.cache
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/obj/Debug/net5.0/Task1.dll
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/obj/Debug/net5.0/ref/Task1.dll
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/obj/Debug/net5.0/Task1.pdb
+/home/nikoly/Universeti/C_Sharp/Laboratorny_3/Task1/obj/Debug/net5.0/Task1.genruntimeconfig.cache
