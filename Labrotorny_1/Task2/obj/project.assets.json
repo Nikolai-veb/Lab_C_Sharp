@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nikoly/Universeti/C_Sharp/Task2/Task2.csproj",
+      "projectUniqueName": "/home/nikoly/Universeti/C_Sharp/Labrotorny_1/Task2/Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "/home/nikoly/Universeti/C_Sharp/Task2/Task2.csproj",
+      "projectPath": "/home/nikoly/Universeti/C_Sharp/Labrotorny_1/Task2/Task2.csproj",
       "packagesPath": "/home/nikoly/.nuget/packages/",
-      "outputPath": "/home/nikoly/Universeti/C_Sharp/Task2/obj/",
+      "outputPath": "/home/nikoly/Universeti/C_Sharp/Labrotorny_1/Task2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nikoly/.nuget/NuGet/NuGet.Config"

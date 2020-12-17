@@ -22,7 +22,7 @@ namespace Task1
             Console.WriteLine("Введите значение Z"); //Вывод в консоль
             float z = float.Parse((Console.ReadLine())); // Считывает ввод с консоли и преобразует в тип float
 
-            //Находим мфксимальное значение из x, z          
+            //Находим максимальное значение из x, z          
             if (x > z)
             {
                  f_max = x;
@@ -45,7 +45,7 @@ namespace Task1
             //Вычмсление значения функцыи
 
             float f = (f_min + x) / (f_max * f_max + y);
-
+            
             //Выводим в косоль
 
             Console.WriteLine(
