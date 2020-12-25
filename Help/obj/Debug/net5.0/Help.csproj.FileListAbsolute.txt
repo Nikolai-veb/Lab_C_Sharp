@@ -1,0 +1,5 @@
+/home/nikoly/Universeti/C_Sharp/Help/obj/Debug/net5.0/Help.csprojAssemblyReference.cache
+/home/nikoly/Universeti/C_Sharp/Help/obj/Debug/net5.0/Help.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikoly/Universeti/C_Sharp/Help/obj/Debug/net5.0/Help.AssemblyInfoInputs.cache
+/home/nikoly/Universeti/C_Sharp/Help/obj/Debug/net5.0/Help.AssemblyInfo.cs
+/home/nikoly/Universeti/C_Sharp/Help/obj/Debug/net5.0/Help.csproj.CoreCompileInputs.cache

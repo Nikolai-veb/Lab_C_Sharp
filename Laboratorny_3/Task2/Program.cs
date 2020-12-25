@@ -6,7 +6,7 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\t\t\t\t\t\t\t\t\t\t\t ДВУХМЕРНЫЙ МАССИВ \n");//Ввывод в консоль заголовка
+            Console.WriteLine("\t\t\t\t\t\t\t ДВУХМЕРНЫЙ МАССИВ \n");//Ввывод в консоль заголовка
 
             int middle = 0;//Среднего арефметического
             int sum = 0;//Сумма всех положительных эллементов

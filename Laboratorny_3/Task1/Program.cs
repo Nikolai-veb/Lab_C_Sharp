@@ -17,25 +17,36 @@ namespace Task1
             //Определенние исходного массива
             int[] myArray = new int[N];
 
-            for (int i=0; i<myArray.Length; i++)
+            for (int i=0; i < myArray.Length; i++)
             {
                 myArray[i] = random.Next(-15, 15); //Рандомное число
 
                 if (myArray[i] > 0 && myArray[i] % 2 == 0) //Проверка на четность
                 {
                     sum += myArray[i]; //Произведение всех четных элементов 
-                }
-
-                if (myArray[i] > 0 && myArray[i] % k == 2)
+                }              
+            }
+                
+             for (int i = 0; i < myArray.Length; i++)
+             {
+                 
                 {
-                    Console.WriteLine("\n" + "Элемент, делящиеся на заданное число k с остатком 2 в этом массиве: " + myArray[i]);
+                 Console.Write(myArray[i] + "\t");
                 }
-              
+             }
 
+            Console.WriteLine("\n" + "\n\t\t\t ПОЛОЖИТЕЛЬНЫЕ ЧИСЛА ПРИ ДЕЛЕНИЕ НА ПЕРЕМЕННУЮ К С ОСТАТОК 2 \n");
+            for (int i = 0; i < myArray.Length; i++)
+            {
+               if (myArray[i] > 0 && myArray[i] % k == 2) 
+               {
+                   Console.Write(myArray[i] + "\t");
+               }
+               
             }
 
                        
-            Console.WriteLine("\n" + "Произведение всех четных эллемнтов : " + sum);
+            Console.WriteLine("\n" + "\n Произведение всех четных эллемнтов : " + sum);
             //Ввывод в консоль
             Console.WriteLine("\n" + "Для продолжения программы нажмите любую клавишу!!!");
             Console.WriteLine("Для завершения программы нажмите Enter.");
